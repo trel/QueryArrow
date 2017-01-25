@@ -6,4 +6,8 @@ QueryArrow provides a systematic solution to shared namespace and unshared names
 
 A QueryArrow instance includes a QueryArrow Service and QueryArrow plugins. Each plugin provides interface with one database. Currently, the implemented databases include PostgreSQL, SQLite, Neo4j, ElasticSearch, and various in-memory data structures. The message protocol is defined in JSONRPC. The queries are issued from the client in the QueryArrow Language. QAL is a unified querying language for SQL and noSQL databases.
 
-Slides: http://irods.org/wp-content/uploads/2016/06/queryarrow2_Hao-Xu_DICE_iRODS-UGM-2016.pdf
+Slides: https://irods.org/uploads/2016/06/queryarrow2_Hao-Xu_DICE_iRODS-UGM-2016.pdf
+
+Technical Report: https://irods.org/uploads/2015/01/xu-queryarrow-2016.pdf
+
+For the latest version please see the development branch.
